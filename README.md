@@ -12,3 +12,4 @@ This project, implemented in C++ using OpenCV, serves as a learning exercise in 
   - **Circumference**: Measures the object's perimeter.
   - **Area**: Computes the object's area.
 - **Object Classification**: Classifies objects into groups based on computed features.
+<img width="1510" alt="Screenshot 2024-07-16 at 21 04 43" src="https://github.com/user-attachments/assets/fc4eeba4-04ea-4b81-8af9-1cda689d8919">
